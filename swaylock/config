@@ -1,0 +1,21 @@
+ignore-empty-password
+font="UbuntuMono Nerd Font"
+
+clock
+timestr=%R
+datestr=%a, %e of %B
+
+image=~/.config/wallpapers/hm.jpg
+fade-in=0.5
+
+ring-color=eb6f92
+key-hl-color=ea9d34
+line-color=00000000
+inside-color=00000088
+
+
+effect-pixelate=5
+
+indicator
+
+indicator-radius=150

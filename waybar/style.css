@@ -136,7 +136,7 @@ window#waybar.hidden {
     margin-top: 6px;
     margin-left: 8px;
     padding-left: 12px;
-    padding-right: 17px;
+    padding-right: 10px;
     margin-right: 10px;
     margin-bottom: 6px;
     font-size: 14px;
@@ -208,3 +208,27 @@ window#waybar.hidden {
     font-weight: bold;
     color: @yellow;
 }
+
+#custom-eosicon {
+    margin-top: 6px;
+    margin-left: 8px;
+    padding-left: 10px;
+    margin-bottom: 6px;
+    padding-right: 2px;
+    font-size: 21px;
+    font-weight: bold;
+    color: @purple;
+}
+
+#custom-power {
+    margin-top: 6px;
+    margin-left: 1px;
+    padding-left: 1px;
+    margin-bottom: 6px;
+    padding-right: 15px;
+    font-size: 17px;
+    font-weight: bold;
+    color: @red;
+}
+
+
